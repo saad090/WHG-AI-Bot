@@ -1,12 +1,3 @@
-<style>
-    body {
-        background-color: cyan;
-    }
-</style>
-
-# My Markdown File
-
-This is the content of my Markdown file.
 # World's Hardest Game AI Bot Trained Using Genetic Algorithm
 
 ![Untitled video - Made with Clipchamp (4)](https://user-images.githubusercontent.com/108808181/236902512-a25edf32-0f0c-4d59-8114-b7da1793086f.gif)
